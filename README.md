@@ -1,14 +1,14 @@
 # cs-course-projects
 A selected collection of projects from my undergraduate computer science courses, including computer vision, computer architecture, deep learning, etc.
 
-## Computer Architecture [[link]]()
+## Computer Architecture [[link]](https://github.com/99sphere/cs-course-projects/tree/main/computer_architecture)
 - Project 1: Simple MIPS assembler
 - Project 2: Building a Simple MIPS Emulator
 - Project 3: Simulating Pipelined Execution
 - Project 4: Multi-level Cache Model and Performance Analysis
 - using c++
 
-## Computer Vision [[link]]()
+## Computer Vision [[link]](https://github.com/99sphere/cs-course-projects/tree/main/computer_vision)
 - Project 1
     - Reduce noise and enhance image contrast through filtering in both the spatial and frequency domains.
 - Project 2 
@@ -17,7 +17,7 @@ A selected collection of projects from my undergraduate computer science courses
     - Perform camera calibration using a (cellphone) camera and implement a virtual ruler.
 - using python
 
-## System Programming [[link]]()
+## System Programming [[link]](https://github.com/99sphere/cs-course-projects/tree/main/system_programming)
 - HW 1
     - Implementation of simple bitwise operations
 - HW 2
@@ -27,14 +27,14 @@ A selected collection of projects from my undergraduate computer science courses
     - Programming involving robot control, communication with servers, path planning, strategy, and real-time QR code detection and decoding.
 - using c
 
-## Digital Image Processing [[link]]()
+## Digital Image Processing [[link]](https://github.com/99sphere/cs-course-projects/tree/main/digital_image_processing)
 - HW 1
     - Implementation of an interpolation method
 - HW 3
     - Implementation of noise filtering and edge enhancement in the spatial and frequency domains.
 - using MATLAB
 
-## Deep Learning [[link]]()
+## Deep Learning [[link]](https://github.com/99sphere/cs-course-projects/tree/main/deep_learning)
 - Programming Assignment 1 : Neural Network design
     - (Main) 3-layer Neural Network for Classification without the deep learning framework (only python)
     - (Extra credit) 3-layer Neural Network for Classification using a deep learning framework (e.g. pytorch, tensorflow)
