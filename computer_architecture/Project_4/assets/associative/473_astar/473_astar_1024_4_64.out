@@ -1,0 +1,21 @@
+-- General Stats --
+L1 Capacity: 256
+L1 way: 1
+L2 Capacity: 1024
+L2 way: 4
+Block Size: 64
+Total accesses: 20000001
+Read accesses: 17465557
+Write accesses: 2534444
+L1 Read misses: 1143876
+L2 Read misses: 253020
+L1 Write misses: 10073
+L2 Write misses: 704
+L1 Read miss rate: 6.549324%
+L2 Read miss rate: 22.119530%
+L1 Write miss rate: 0.397444%
+L2 Write miss rate: 6.988980%
+L1 Clean eviction: 707413 
+L2 Clean eviction: 237784 
+L1 dirty eviction: 442666 
+L2 dirty eviction: 746
