@@ -13,5 +13,5 @@
 ## Team Project
 - Programming involving robot control, communication with servers, path planning, strategy, and real-time QR code detection and decoding.
 
-- demo
+- demo   
 ![demo](https://github.com/99sphere/2024-Spring-System-Programming/assets/59161083/beb5565a-b684-4464-973a-12047003a68c)
