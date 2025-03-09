@@ -7,7 +7,7 @@
 ## Programming Assignment 2 : Convolutional Neural Network
 - (Main) Convolution Neural Network for Classification without deep learning framework
 - (Extra credit) Visualize the activation map using Class Activation Map using the author provided code
-- input image & class activation map
+- input image & class activation map   
     <img width="313" alt="Image" src="https://github.com/user-attachments/assets/9e6a99e6-15cc-480d-8db2-0b9b54d94092" />
 
 ## Programming Assignment 3 : Recurrent Neural Network
