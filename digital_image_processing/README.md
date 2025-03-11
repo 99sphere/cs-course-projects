@@ -1,7 +1,7 @@
 # Digital Image Processing
 ## HW 1
 - Implementation of two types of interpolation methods
-- result   
+- Comparison of results between a self-implemented function and a MATLAB built-in function
     <img width="908" alt="Image" src="https://github.com/user-attachments/assets/62febdef-d95c-43f1-9870-09465c7ed909" />   
 
 ## HW 3
